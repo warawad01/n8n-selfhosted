@@ -1,4 +1,4 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:1.105.2
 
 ENV GENERIC_TIMEZONE=Asia/Bangkok
 ENV N8N_BASIC_AUTH_ACTIVE=true
